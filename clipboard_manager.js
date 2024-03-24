@@ -53,7 +53,7 @@ function readClipboard() {
             content = execSync('pbpaste').toString().trim();
         }
 
-        //console.log('Clipboard content:', content);
+        console.log('Clipboard content:', content);
 
         // Add content to clipboard history
         const keys = Object.keys(clipboardHistory);

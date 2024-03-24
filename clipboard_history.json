@@ -1,3 +1,27 @@
 {
-  
+  "copy1": "Time to fill your online",
+  "copy2": "You haven't ord",
+  "copy3": "View full number",
+  "copy4": "100%\r\nAccount is set up\r\nYou don",
+  "copy5": "100%",
+  "copy6": "Order status",
+  "copy7": "Tesco Delivery Van",
+  "copy8": "Order history",
+  "copy9": "Clubcar",
+  "copy10": "nt over",
+  "copy11": "here's your a",
+  "copy12": "Orders",
+  "copy13": "of 4 compl",
+  "copy14": "ou don't nee",
+  "copy15": "Accou",
+  "copy16": "Execution Policy",
+  "copy17": "Task Scheduler Configuration:",
+  "copy18": "User Accoun",
+  "copy19": "Security Software",
+  "copy20": "Path Resoluti",
+  "copy21": "Loggin",
+  "copy22": "User\r\ni create a vbs\r\n\r\nSet WshShell = CreateObject(\"WScript.Shell\")\r\nWshShell.R",
+  "copy23": "but",
+  "copy24": "but that task",
+  "copy25": "bu"
 }
