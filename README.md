@@ -19,7 +19,7 @@ Ensure that the script (clipboard_tracker.js) is executable.
 
 ## Run the script using Node.js:
 
-node clipboard_tracker.js
+node clipboard_manager.js
 
 The script will continuously monitor your clipboard and update the clipboard history file (clipboard_history.json).
 
