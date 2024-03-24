@@ -1,0 +1,5 @@
+{
+  "copy1": "const winston = require('winston');\r\n\r\nconst logger = winston.createLogger({\r\n  level: 'info',\r\n  format: winston.format.simple(),\r\n  transports: [\r\n    new winston.transports.Console(),\r\n    new winston.transports.File({ filename: 'clipboard_manager.log' })\r\n  ]\r\n});\r\n\r\n// Log clipboard changes\r\nlogger.info('Clipboard content changed:', content);",
+  "copy2": "pload the zip file to a platform where users can easily download it, such as GitHub Releases or your own website.",
+  "copy3": "pkg clipboard_manager.js --target node14-win-x64,node14-macos-x64,node14-linux-x64"
+}

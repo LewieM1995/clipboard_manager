@@ -1,0 +1,13 @@
+{
+    "name": "clipboard-history",
+    "version": "1.0.0",
+    "description": "Clipboard history manager",
+    "main": "clipboard_manager.js",
+    "dependencies": {
+      "fs-extra": "^10.0.0"
+    },
+    "scripts": {
+      "start": "node clipboard_manager.js"
+    }
+  }
+  
