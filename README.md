@@ -2,6 +2,9 @@
 
 This script allows you to track and maintain a history of your clipboard content on Windows and macOS systems. It periodically reads the clipboard content and stores it in a JSON file, enabling you to access your clipboard history even after the content has been replaced.
 
+
+## Working project, set up with win.exe still required.
+
 ## Prerequisites
 
 Node.js installed on your system
